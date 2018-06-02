@@ -470,6 +470,7 @@ ul li {
 }
 .social-icons, .footer .footer-share {
 	margin-top: 30px;
+	text-align: center;
 }
 .social-icons li, .footer .footer-share li {
 	display: inline-block;
@@ -552,6 +553,7 @@ ul li {
 }
 .footer .footer-col {
 	margin-bottom: 80px;
+	text-align: center;
 }
 .footer h5 {
 	color: #fff;
